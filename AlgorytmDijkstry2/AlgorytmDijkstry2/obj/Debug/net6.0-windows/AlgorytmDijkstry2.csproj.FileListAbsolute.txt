@@ -1,0 +1,17 @@
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\bin\Debug\net6.0-windows\AlgorytmDijkstry2.exe
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\bin\Debug\net6.0-windows\AlgorytmDijkstry2.deps.json
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\bin\Debug\net6.0-windows\AlgorytmDijkstry2.runtimeconfig.json
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\bin\Debug\net6.0-windows\AlgorytmDijkstry2.dll
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\bin\Debug\net6.0-windows\AlgorytmDijkstry2.pdb
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.Form1.resources
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.csproj.GenerateResource.cache
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.AssemblyInfoInputs.cache
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.AssemblyInfo.cs
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.csproj.CoreCompileInputs.cache
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.dll
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\refint\AlgorytmDijkstry2.dll
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.pdb
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.genruntimeconfig.cache
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\ref\AlgorytmDijkstry2.dll
+D:\c#\AlgorytmDijkstry2\AlgorytmDijkstry2\obj\Debug\net6.0-windows\AlgorytmDijkstry2.Properties.Resources.resources
